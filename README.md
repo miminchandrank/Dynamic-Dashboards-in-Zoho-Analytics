@@ -73,6 +73,6 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-link) and discuss
 
 ---
 
-**🗓️ Last Updated**: April 2025  
+
 **Created by**: [Mimin Chandran K](https://www.linkedin.com/in/your-link)
 
