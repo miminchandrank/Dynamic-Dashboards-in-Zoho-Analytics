@@ -64,13 +64,6 @@ Uncover sales trends over time for demand forecasting and long-term planning.
 - **Custom SQL Queries** – For advanced data modeling and aggregations
 
 ---
-
-## 📂 Repository Contents
-
-- `dashboards_preview/` – Screenshots of each dashboard
-- `project_summary.pdf` – One-page project overview (optional)
-- `README.md` – Project documentation
-
 ---
 
 ## 💬 Feedback & Collaboration
